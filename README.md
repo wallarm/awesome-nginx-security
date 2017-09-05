@@ -2,9 +2,9 @@
 
 ## WAF (Web Application Firewalls) for nginx
 
-[mod_security](https://github.com/SpiderLabs/ModSecurity-nginx)
-[naxsi](https://github.com/nbs-system/naxsi)
-[wallarm](https://wallarm.com)
+- [mod_security](https://github.com/SpiderLabs/ModSecurity-nginx)
+- [naxsi](https://github.com/nbs-system/naxsi)
+- [wallarm](https://wallarm.com)
 
 ## Talks
 
