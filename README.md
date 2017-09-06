@@ -13,7 +13,7 @@ A curated list of awesome links related to application/API security in NGINX env
 - [Building a Security Shield for Your Applications with NGINX & Wallarm (nginx.conf 2017). Transcript](https://www.nginx.com/blog/build-application-security-shield-with-nginx-wallarm)
 - [Behavior Based Security with Repsheet: Aaron Bedra @nginxconf 2014 (video)](https://www.youtube.com/watch?v=9AyaVxzqYoA)
 
-# Articles
+## Articles
 
 - [Let's Encrypt & Nginx](https://letsecure.me/secure-web-deployment-with-lets-encrypt-and-nginx/)
 - [Installing the Nginx Plus with mod_security WAF](https://www.nginx.com/resources/admin-guide/nginx-plus-modsecurity-waf-installation-logging/)
