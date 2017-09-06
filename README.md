@@ -18,3 +18,5 @@ A curated list of awesome links related to application/API security in NGINX env
 - [Let's Encrypt & Nginx](https://letsecure.me/secure-web-deployment-with-lets-encrypt-and-nginx/)
 - [Installing the Nginx Plus with mod_security WAF](https://www.nginx.com/resources/admin-guide/nginx-plus-modsecurity-waf-installation-logging/)
 
+## Bot mitigation / Anti-scrapping / Account taked-over prevention 
+- [testcookie-nginx-module](https://github.com/kyprizel/testcookie-nginx-module) - Simple robot mitigation module using cookie based challenge/response technique 
