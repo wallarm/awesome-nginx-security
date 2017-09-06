@@ -2,12 +2,6 @@
 
 A curated list of awesome links related to application/API security in NGINX environment.
 
-## WAF (Web Application Firewalls) for nginx
-
-- [mod_security](https://github.com/SpiderLabs/ModSecurity-nginx)
-- [naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX.
-- [wallarm](https://wallarm.com)
-
 ## Talks
 
 - [Building a Security Shield for Your Applications with NGINX & Wallarm (nginx.conf 2017). Transcript](https://www.nginx.com/blog/build-application-security-shield-with-nginx-wallarm)
@@ -17,6 +11,12 @@ A curated list of awesome links related to application/API security in NGINX env
 
 - [Let's Encrypt & Nginx](https://letsecure.me/secure-web-deployment-with-lets-encrypt-and-nginx/)
 - [Installing the Nginx Plus with mod_security WAF](https://www.nginx.com/resources/admin-guide/nginx-plus-modsecurity-waf-installation-logging/)
+
+## WAF (Web Application Firewalls) for nginx
+
+- [mod_security](https://github.com/SpiderLabs/ModSecurity-nginx)
+- [naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX.
+- [wallarm](https://wallarm.com)
 
 ## Bot mitigation / Anti-scrapping / Account taked-over prevention 
 - [testcookie-nginx-module](https://github.com/kyprizel/testcookie-nginx-module) - Simple robot mitigation module using cookie based challenge/response technique 
