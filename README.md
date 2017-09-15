@@ -8,10 +8,11 @@ A curated list of awesome links related to application/API security in NGINX env
 - [Behavior Based Security with Repsheet: Aaron Bedra @nginxconf 2014 (video)](https://www.youtube.com/watch?v=9AyaVxzqYoA)
 - [Making applications secure with NGINX (video)](https://www.youtube.com/watch?v=rNNRGDAZeKY)
 - [Scripting NGINX for Overload Protection (video)](https://www.youtube.com/watch?v=uFm-tp4t2mE)
+- [Naxsi, a WAF for NGINX (video)](https://www.youtube.com/watch?v=JiJHCodn_PQ)
 
 ## Articles
 
-- Building a Security Shield for Your Applications with NGINX & Wallarm(https://www.nginx.com/blog/build-application-security-shield-with-nginx-wallarm)
+- [Building a Security Shield for Your Applications with NGINX & Wallarm](https://www.nginx.com/blog/build-application-security-shield-with-nginx-wallarm)
 - [Let's Encrypt & Nginx](https://letsecure.me/secure-web-deployment-with-lets-encrypt-and-nginx/)
 - [Installing the Nginx Plus with mod_security WAF](https://www.nginx.com/resources/admin-guide/nginx-plus-modsecurity-waf-installation-logging/)
 - [CloudFlare's new WAF: compiling to Lua](https://blog.cloudflare.com/cloudflares-new-waf-compiling-to-lua/)
