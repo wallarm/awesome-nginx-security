@@ -28,7 +28,7 @@ A curated list of awesome links related to application/API security in NGINX env
 - [naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX.
 - [wallarm](https://wallarm.com) - NG-WAF for NGINX with security rules adjusted with AI
 
-## Bot mitigation / Anti-scrapping / Account taked-over prevention 
+## Bot mitigation / Anti-scrapping / Account take-over prevention 
 
 - [testcookie-nginx-module](https://github.com/kyprizel/testcookie-nginx-module) - Simple robot mitigation module using cookie based challenge/response technique 
 
