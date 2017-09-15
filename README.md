@@ -5,7 +5,7 @@ A curated list of awesome links related to application/API security in NGINX env
 ## Talks
 
 - [Behavior Based Security with Repsheet: Aaron Bedra @nginxconf 2014 (video)](https://www.youtube.com/watch?v=9AyaVxzqYoA)
-- [Making applications secure with NGINX](https://www.youtube.com/watch?v=rNNRGDAZeKY)
+- [Making applications secure with NGINX (video)](https://www.youtube.com/watch?v=rNNRGDAZeKY)
 
 ## Articles
 
