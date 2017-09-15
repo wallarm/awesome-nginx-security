@@ -15,7 +15,7 @@ A curated list of awesome links related to application/API security in NGINX env
 - [Building a Security Shield for Your Applications with NGINX & Wallarm](https://www.nginx.com/blog/build-application-security-shield-with-nginx-wallarm)
 - [Let's Encrypt & Nginx](https://letsecure.me/secure-web-deployment-with-lets-encrypt-and-nginx/)
 - [Installing the Nginx Plus with mod_security WAF](https://www.nginx.com/resources/admin-guide/nginx-plus-modsecurity-waf-installation-logging/)
-- [CloudFlare's new WAF: compiling to Lua](https://blog.cloudflare.com/cloudflares-new-waf-compiling-to-lua/)
+- [CloudFlare's new WAF: compiling to Lua (based on Nginx)](https://blog.cloudflare.com/cloudflares-new-waf-compiling-to-lua/)
 
 
 ## Configuration
