@@ -16,7 +16,8 @@ A curated list of awesome links related to application/API security in NGINX env
 - [Let's Encrypt & Nginx](https://letsecure.me/secure-web-deployment-with-lets-encrypt-and-nginx/)
 - [Installing the Nginx Plus with mod_security WAF](https://www.nginx.com/resources/admin-guide/nginx-plus-modsecurity-waf-installation-logging/)
 - [CloudFlare's new WAF: compiling to Lua (based on Nginx)](https://blog.cloudflare.com/cloudflares-new-waf-compiling-to-lua/)
-
+- [Tips to harden your nginx configuration](https://www.acunetix.com/blog/articles/nginx-server-security-hardening-configuration-1/#comment-16863)
+- - [Important steps to take to make an Nginx server more secure](https://help.dreamhost.com/hc/en-us/articles/222784068-The-most-important-steps-to-take-to-make-an-Nginx-server-more-secure)
 
 ## Configuration
 
@@ -36,3 +37,8 @@ A curated list of awesome links related to application/API security in NGINX env
 
 - [SEnginx](https://github.com/NeusoftSecurity/SEnginx) - Security-Enhanced nginx
 - [lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf) - High-performance WAF built on the OpenResty stack
+
+## Other
+
+- [Secure nginx config. GIST](https://gist.github.com/plentz/6737338) - nginx configuration for improved security and performance
+
