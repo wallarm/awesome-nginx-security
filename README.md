@@ -18,6 +18,7 @@ A curated list of awesome links related to application/API security in NGINX env
 - [Installing the Nginx Plus with mod_security WAF](https://www.nginx.com/resources/admin-guide/nginx-plus-modsecurity-waf-installation-logging/)
 - [CloudFlare's new WAF: compiling to Lua (based on Nginx)](https://blog.cloudflare.com/cloudflares-new-waf-compiling-to-lua/)
 - [Tips to harden your nginx configuration](https://www.acunetix.com/blog/articles/nginx-server-security-hardening-configuration-1/#comment-16863)
+- [How To Protect an Nginx Server with Fail2Ban on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-an-nginx-server-with-fail2ban-on-ubuntu-14-04)
 - [Important steps to take to make an Nginx server more secure](https://help.dreamhost.com/hc/en-us/articles/222784068-The-most-important-steps-to-take-to-make-an-Nginx-server-more-secure)
 
 ## Configuration
