@@ -12,7 +12,8 @@ A curated list of awesome links related to application/API security in NGINX env
 
 ## Articles
 
-- [Building a Security Shield for Your Applications with NGINX & Wallarm](https://www.nginx.com/blog/build-application-security-shield-with-nginx-wallarm)
+- [Building a Security Shield for Your Applications with NGINX](https://www.nginx.com/blog/build-application-security-shield-with-nginx-wallarm)
+- [Pitfalls and Common Security Mistakes in NGINX configuration](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/)
 - [Let's Encrypt & Nginx](https://letsecure.me/secure-web-deployment-with-lets-encrypt-and-nginx/)
 - [Installing the Nginx Plus with mod_security WAF](https://www.nginx.com/resources/admin-guide/nginx-plus-modsecurity-waf-installation-logging/)
 - [CloudFlare's new WAF: compiling to Lua (based on Nginx)](https://blog.cloudflare.com/cloudflares-new-waf-compiling-to-lua/)
@@ -27,7 +28,9 @@ A curated list of awesome links related to application/API security in NGINX env
 
 - [mod_security](https://github.com/SpiderLabs/ModSecurity-nginx) - mod_security for NGINX
 - [naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX.
-- [wallarm](https://wallarm.com) - NG-WAF for NGINX with security rules adjusted with AI
+- [NGINX 3rd Party Modules](https://www.nginx.com/resources/wiki/modules/) -  a list of third-party modules (including security-related) for NGINX and NGINX Plus, created and maintained by members of the NGINX community
+- [wallarm](https://wallarm.com) - NG-WAF for NGINX with the security rules adjusted with AI
+
 
 ## Bot mitigation / Anti-scrapping / Account take-over prevention 
 
