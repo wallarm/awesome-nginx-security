@@ -26,12 +26,12 @@ A curated list of awesome links related to application/API security in NGINX env
 - [gixy](https://github.com/yandex/gixy/) - a tool to analyze Nginx configuration to prevent security misconfiguration
 - [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) - Online nginx configuration generator for general purposes.
 
-## WAFs (Web Application Firewall) for Nginx
+## WAF for NGINX. Web Application Firewalls.
 
 - [mod_security](https://github.com/SpiderLabs/ModSecurity-nginx) - mod_security for NGINX
 - [naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX.
 - [NGINX 3rd Party Modules](https://www.nginx.com/resources/wiki/modules/) -  a list of third-party modules (including security-related) for NGINX and NGINX Plus, created and maintained by members of the NGINX community
-- [wallarm](https://wallarm.com) - NG-WAF for NGINX with the security rules adjusted with AI
+- [wallarm](https://wallarm.com) - NG-WAF for NGINX and NGINX Plus with the security rules adjusted with AI
 
 
 ## Bot mitigation / Anti-scrapping / Account take-over prevention 
