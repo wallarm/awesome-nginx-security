@@ -2,14 +2,6 @@
 
 A curated list of awesome links related to application/API security in NGINX environment.
 
-## Talks
-
-- [Let's Encrypt TLS for Every (video)](https://www.youtube.com/watch?v=ac4tE4_4nU0)
-- [Behavior Based Security with Repsheet: Aaron Bedra @nginxconf 2014 (video)](https://www.youtube.com/watch?v=9AyaVxzqYoA)
-- [Making applications secure with NGINX (video)](https://www.youtube.com/watch?v=rNNRGDAZeKY)
-- [Scripting NGINX for Overload Protection (video)](https://www.youtube.com/watch?v=uFm-tp4t2mE)
-- [Naxsi, a WAF for NGINX (video)](https://www.youtube.com/watch?v=JiJHCodn_PQ)
-
 ## Articles
 
 - [Building a Security Shield for Your Applications with NGINX](https://www.nginx.com/blog/build-application-security-shield-with-nginx-wallarm)
@@ -21,6 +13,14 @@ A curated list of awesome links related to application/API security in NGINX env
 - [How To Protect an Nginx Server with Fail2Ban on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-an-nginx-server-with-fail2ban-on-ubuntu-14-04)
 - [Important steps to take to make an Nginx server more secure](https://help.dreamhost.com/hc/en-us/articles/222784068-The-most-important-steps-to-take-to-make-an-Nginx-server-more-secure)
 - [Building Security into Cloud Native Apps with NGINX](https://www.helpnetsecurity.com/2019/02/19/building-security-into-cloud-native-apps-with-nginx/)
+
+## Talks
+
+- [Let's Encrypt TLS for Every (video)](https://www.youtube.com/watch?v=ac4tE4_4nU0)
+- [Behavior Based Security with Repsheet: Aaron Bedra @nginxconf 2014 (video)](https://www.youtube.com/watch?v=9AyaVxzqYoA)
+- [Making applications secure with NGINX (video)](https://www.youtube.com/watch?v=rNNRGDAZeKY)
+- [Scripting NGINX for Overload Protection (video)](https://www.youtube.com/watch?v=uFm-tp4t2mE)
+- [Naxsi, a WAF for NGINX (video)](https://www.youtube.com/watch?v=JiJHCodn_PQ)
 
 ## Configuration
 
@@ -36,8 +36,7 @@ A curated list of awesome links related to application/API security in NGINX env
 
 ## WAF for Kubernetes. Protect Cloud Native Apps
 
-- [WAF for Kubernetes](https://wallarm.com/solutions/waf-for-kubernetes/) - WAF for Kubernetes NGINX Ingress Controller 
-
+- [WAF for Kubernetes](https://wallarm.com/solutions/waf-for-kubernetes/) - WAF for Kubernetes. As NGINX Ingress Controller or a sidecar container
 
 ## Bot mitigation / Anti-scrapping / Account take-over prevention 
 
