@@ -20,18 +20,23 @@ A curated list of awesome links related to application/API security in NGINX env
 - [Tips to harden your nginx configuration](https://www.acunetix.com/blog/articles/nginx-server-security-hardening-configuration-1/#comment-16863)
 - [How To Protect an Nginx Server with Fail2Ban on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-an-nginx-server-with-fail2ban-on-ubuntu-14-04)
 - [Important steps to take to make an Nginx server more secure](https://help.dreamhost.com/hc/en-us/articles/222784068-The-most-important-steps-to-take-to-make-an-Nginx-server-more-secure)
+- [Building Security into Cloud Native Apps with NGINX](https://www.helpnetsecurity.com/2019/02/19/building-security-into-cloud-native-apps-with-nginx/)
 
 ## Configuration
 
 - [gixy](https://github.com/yandex/gixy/) - a tool to analyze Nginx configuration to prevent security misconfiguration
 - [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) - Online nginx configuration generator for general purposes.
 
-## WAF for NGINX. Web Application Firewalls.
+## WAF for NGINX. Protect APIs, websites, web applicatons
 
 - [mod_security](https://github.com/SpiderLabs/ModSecurity-nginx) - mod_security for NGINX
 - [naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX.
 - [NGINX 3rd Party Modules](https://www.nginx.com/resources/wiki/modules/) -  a list of third-party modules (including security-related) for NGINX and NGINX Plus, created and maintained by members of the NGINX community
 - [wallarm](https://wallarm.com) - NG-WAF for NGINX and NGINX Plus with the security rules adjusted with AI
+
+## WAF for Kubernetes. Protect Cloud Native Apps
+
+- [WAF for Kubernetes](https://wallarm.com/solutions/waf-for-kubernetes/) - WAF for Kubernetes NGINX Ingress Controller 
 
 
 ## Bot mitigation / Anti-scrapping / Account take-over prevention 
