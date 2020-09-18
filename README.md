@@ -4,6 +4,7 @@ A curated list of awesome links related to application/API security in NGINX env
 
 ## Articles
 
+
 - [Building a Security Shield for Your Applications with NGINX](https://www.nginx.com/blog/build-application-security-shield-with-nginx-wallarm)
 - [Pitfalls and Common Security Mistakes in NGINX configuration](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/)
 - [Let's Encrypt & Nginx](https://letsecure.me/secure-web-deployment-with-lets-encrypt-and-nginx/)
@@ -16,6 +17,7 @@ A curated list of awesome links related to application/API security in NGINX env
 
 ## Talks
 
+- [AppSecCali 2019 Lightning Talk - Building Cloud-Native Security for Apps and APIs with NGINX/Kubernetes](https://www.youtube.com/watch?v=xcjFgZ_FN4w)
 - [Let's Encrypt TLS for Every (video)](https://www.youtube.com/watch?v=ac4tE4_4nU0)
 - [Behavior Based Security with Repsheet: Aaron Bedra @nginxconf 2014 (video)](https://www.youtube.com/watch?v=9AyaVxzqYoA)
 - [Making applications secure with NGINX (video)](https://www.youtube.com/watch?v=rNNRGDAZeKY)
