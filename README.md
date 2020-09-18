@@ -17,10 +17,9 @@ A curated list of awesome links related to application/API security in NGINX env
 
 ## Talks
 
-- [AppSecCali 2019 Lightning Talk - Building Cloud-Native Security for Apps and APIs with NGINX/Kubernetes](https://www.youtube.com/watch?v=xcjFgZ_FN4w)
+- [AppSecCali 2019 Lightning Talk - Building Cloud-Native Security for Apps and APIs with NGINX/Kubernetes](https://www.youtube.com/watch?v=xcjFgZ_FN4w) - super practical
 - [Let's Encrypt TLS for Every (video)](https://www.youtube.com/watch?v=ac4tE4_4nU0)
 - [Behavior Based Security with Repsheet: Aaron Bedra @nginxconf 2014 (video)](https://www.youtube.com/watch?v=9AyaVxzqYoA)
-- [Making applications secure with NGINX (video)](https://www.youtube.com/watch?v=rNNRGDAZeKY)
 - [Scripting NGINX for Overload Protection (video)](https://www.youtube.com/watch?v=uFm-tp4t2mE)
 - [Naxsi, a WAF for NGINX (video)](https://www.youtube.com/watch?v=JiJHCodn_PQ)
 
