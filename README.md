@@ -1,9 +1,8 @@
 # awesome-nginx-security
 
-A curated list of awesome links related to application/API security in NGINX environment.
+A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingree Controller (based on NGINX)
 
 ## Articles
-
 
 - [Building a Security Shield for Your Applications with NGINX](https://www.nginx.com/blog/build-application-security-shield-with-nginx-wallarm)
 - [Pitfalls and Common Security Mistakes in NGINX configuration](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/)
