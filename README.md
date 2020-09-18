@@ -1,6 +1,6 @@
 # awesome-nginx-security
 
-A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingree Controller (based on NGINX)
+A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
 
 ## Articles
 
