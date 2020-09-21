@@ -13,6 +13,7 @@ A curated list of awesome links related to application security related to the e
 - [How To Protect an Nginx Server with Fail2Ban on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-an-nginx-server-with-fail2ban-on-ubuntu-14-04)
 - [Important steps to take to make an Nginx server more secure](https://help.dreamhost.com/hc/en-us/articles/222784068-The-most-important-steps-to-take-to-make-an-Nginx-server-more-secure)
 - [Building Security into Cloud Native Apps with NGINX](https://www.helpnetsecurity.com/2019/02/19/building-security-into-cloud-native-apps-with-nginx/)
+- [Sandboxing nginx with systemd](https://medium.com/@nickodell/sandboxing-nginx-with-systemd-80441923c555)
 
 ## Talks
 
@@ -46,6 +47,7 @@ A curated list of awesome links related to application security related to the e
 
 - [SEnginx](https://github.com/NeusoftSecurity/SEnginx) - Security-Enhanced nginx
 - [lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf) - High-performance WAF built on the OpenResty stack
+- [bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx based Docker image secure by default.
 
 ## Other
 
