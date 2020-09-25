@@ -37,7 +37,7 @@ A curated list of awesome links related to application security related to the e
 
 ## WAF for Kubernetes. Protect Cloud Native Apps
 
-- [WAF for Kubernetes](https://wallarm.com/solutions/waf-for-kubernetes/) - Deploy WAF in Kubernetes on Ingeress Controller or as a sidecr proxy
+- [WAF for Kubernetes](https://wallarm.com/solutions/waf-for-kubernetes/) - Deploy WAF in Kubernetes on Ingeress Controller or as a sidecar proxy
 
 ## Bot mitigation / Anti-scrapping / Account take-over prevention 
 
